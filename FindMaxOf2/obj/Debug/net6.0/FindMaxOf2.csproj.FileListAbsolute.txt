@@ -1,0 +1,15 @@
+C:\Users\Ренат\Desktop\РП\3. Програм-е С#\HW1\FindMaxOf2\bin\Debug\net6.0\FindMaxOf2.exe
+C:\Users\Ренат\Desktop\РП\3. Програм-е С#\HW1\FindMaxOf2\bin\Debug\net6.0\FindMaxOf2.deps.json
+C:\Users\Ренат\Desktop\РП\3. Програм-е С#\HW1\FindMaxOf2\bin\Debug\net6.0\FindMaxOf2.runtimeconfig.json
+C:\Users\Ренат\Desktop\РП\3. Програм-е С#\HW1\FindMaxOf2\bin\Debug\net6.0\FindMaxOf2.dll
+C:\Users\Ренат\Desktop\РП\3. Програм-е С#\HW1\FindMaxOf2\bin\Debug\net6.0\FindMaxOf2.pdb
+C:\Users\Ренат\Desktop\РП\3. Програм-е С#\HW1\FindMaxOf2\obj\Debug\net6.0\FindMaxOf2.csproj.AssemblyReference.cache
+C:\Users\Ренат\Desktop\РП\3. Програм-е С#\HW1\FindMaxOf2\obj\Debug\net6.0\FindMaxOf2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ренат\Desktop\РП\3. Програм-е С#\HW1\FindMaxOf2\obj\Debug\net6.0\FindMaxOf2.AssemblyInfoInputs.cache
+C:\Users\Ренат\Desktop\РП\3. Програм-е С#\HW1\FindMaxOf2\obj\Debug\net6.0\FindMaxOf2.AssemblyInfo.cs
+C:\Users\Ренат\Desktop\РП\3. Програм-е С#\HW1\FindMaxOf2\obj\Debug\net6.0\FindMaxOf2.csproj.CoreCompileInputs.cache
+C:\Users\Ренат\Desktop\РП\3. Програм-е С#\HW1\FindMaxOf2\obj\Debug\net6.0\FindMaxOf2.dll
+C:\Users\Ренат\Desktop\РП\3. Програм-е С#\HW1\FindMaxOf2\obj\Debug\net6.0\refint\FindMaxOf2.dll
+C:\Users\Ренат\Desktop\РП\3. Програм-е С#\HW1\FindMaxOf2\obj\Debug\net6.0\FindMaxOf2.pdb
+C:\Users\Ренат\Desktop\РП\3. Програм-е С#\HW1\FindMaxOf2\obj\Debug\net6.0\FindMaxOf2.genruntimeconfig.cache
+C:\Users\Ренат\Desktop\РП\3. Програм-е С#\HW1\FindMaxOf2\obj\Debug\net6.0\ref\FindMaxOf2.dll
